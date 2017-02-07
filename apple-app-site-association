@@ -3,7 +3,7 @@
     "apps": [],
     "details": [
       {
-        "appID": "T2F46JJNJ6.com.Universal-Links1",
+        "appID": "T2F46JJNJ6.com.beetsoft.CurationApp",
         "paths": [
           "/*"
         ]
@@ -11,6 +11,6 @@
     ]
   },
    "activitycontinuation": {
-    "apps": [    "T2F46JJNJ6.com.Universal-Links1" ]
+    "apps": [    "T2F46JJNJ6.com.beetsoft.CurationApp" ]
     }
 }
